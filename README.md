@@ -1,7 +1,7 @@
 # devops-fully-automated-infra
 Fully automated and secured Terraform infra pipeline
 
-# testing connect with github
+# testing connection of jenkins with github
 
 
 ## CICD Infra setup
